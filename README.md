@@ -22,9 +22,5 @@
 | 13 | Компьютерная Академия ТОР (м.Академичес... | https://incamp.ru/camp/top-akademicheskaya-12844/                 | Санкт-Петербург, | Гражданский проспект, 41а, 3 этаж, Калининский...                     | [Городской клуб, Кешбэк от incamp, Робототехни...]                        |    4.3 |
 | 14 | Компьютерная Академия ТОР (м. Дыбенко)     | https://incamp.ru/camp/top-nevsky-13397/                          | Санкт-Петербург, | пр-т Большевиков, д. 27, Невский район, м. Ули...                     | [Городской клуб, Кешбэк от incamp, Робототехни...]                        |    2.7 |
 
-### Usage:
-1. Run the script to fetch latest camp data
-2. Access results through the `df` pandas DataFrame
-3. Export to CSV with: `df.to_csv('camps_data.csv', index=False)`
 
-**Note:** Website structure changes may require CSS selector updates. Use responsibly and check `robots.txt` before scraping.
+**Note:** Результат прмерный, его можно улучшать, а также парсить другие страницы.
